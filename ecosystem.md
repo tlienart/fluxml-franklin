@@ -3,6 +3,8 @@ title="Ecosystem"
 +++
 
 {{redirect /ecosystem.html}} <!-- legacy links -->
+{{redirect /models/}} <!-- legacy links -->
+<!-- Get rid of the old Models page since it is redundant -->
 
 ~~~
 <style>
