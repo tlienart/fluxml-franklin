@@ -1,0 +1,4 @@
+Sitemap: https://fluxml.ai/sitemap.xml
+
+User-agent: *
+Disallow:
