@@ -19,3 +19,4 @@
 * check google analytics is fine with the change
 * adjust 404
 * add redirect for `/docs.html`.
+* favicon (?)
